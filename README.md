@@ -1,3 +1,2 @@
 
-![Image of calculate](calculate.png)
-![Image of result](result.png)
+![Image of calculate](calculate.png)| ![Image of result](result.png)
